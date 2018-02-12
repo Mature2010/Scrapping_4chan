@@ -2,9 +2,9 @@
 A program in ruby to do scrapping to the images of a thread in 4 chan
 
 # How to use
--Install ruby
--Install gem nokogiri
--Install gem open-uri
+- Install ruby.
+- Install gem nokogiri.
+- Install gem open-uri.
 
 Make a directory to download the images.
 Place the program scrapping_4chan.rb in this directory.
