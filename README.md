@@ -3,8 +3,8 @@ A program in ruby to do scrapping to the images of a thread in 4 chan
 
 # How to use
 - Install ruby.
-- Install gem nokogiri.
 - Download scrapping_4chan.rb
+- Install gem nokogiri.
 
 ```
 gem install nokogiri
