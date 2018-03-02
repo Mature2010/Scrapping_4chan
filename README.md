@@ -5,7 +5,9 @@ A program in ruby to do scrapping to the images of a thread in 4 chan
 - Install ruby.
 - Install gem nokogiri.
 
+```
 gem install nokogiri
+```
 
 Make a directory to download the images.
 
