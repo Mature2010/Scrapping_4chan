@@ -12,7 +12,7 @@ gem install nokogiri
 
 Make a directory to download the images.
 
-Place the program scrapping_4chan.rb in this directory.
+Put the program scrapping_4chan.rb in the directory.
 
 run scrapping_4chan.rb
 
