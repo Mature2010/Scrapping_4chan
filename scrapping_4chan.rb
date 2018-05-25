@@ -15,6 +15,6 @@ i = 0
     i += 1
   end
 
-imagenes.each_with_index do |direccion, numero|
+imagenes.each do |direccion|
   system("curl -O #{direccion}")
 end
