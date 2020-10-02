@@ -3,6 +3,11 @@ A program in ruby to do scrapping to the images of a thread in 4 chan
 
 # How to use
 - Check you have cURL installed
+
+```
+curl -V
+```
+
 - Install gem nokogiri.
 
 ```
